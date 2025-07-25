@@ -1,0 +1,16 @@
+[project]
+name = "hackathon"
+version = "0.1.0"
+description = "Catering multi-agent system"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp[cli]>=1.9.2",
+    "pandas>=2.0.0",
+    "sqlalchemy>=2.0.0",
+    "llama-index>=0.12.22",
+    "python-dotenv>=1.1.0",
+    "llama-index-tools-mcp>=0.2.6",
+    "llama-index>=0.12.50",
+    "tavily-python>=0.7.10",
+]
