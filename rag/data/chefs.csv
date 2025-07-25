@@ -1,0 +1,33 @@
+id,name,specialization,rating
+1,Amelia Smith,Japanese,4.8
+2,Marco Johnson,Japanese,4.7
+3,Nina Chen,Chinese,4.4
+4,Ethan Davis,Chinese,4.8
+5,Marco Smith,Korean,4.4
+6,Olivia Khan,Korean,4.4
+7,Leo Davis,Vietnamese,4.5
+8,Alex Khan,Vietnamese,4.8
+9,Amelia Nguyen,Thai,4.3
+10,Marco Chen,Thai,4.2
+11,Chloe Liu,Asian Fusion,4.7
+12,Sophia Martinez,Asian Fusion,4.7
+13,Leo Nguyen,Indian,4.4
+14,Laura Davis,Indian,4.5
+15,Sophia Martinez,Middle Eastern,4.7
+16,Daniel Khan,Middle Eastern,4.2
+17,Emily Kim,Latin American,4.8
+18,Ryan Rossi,Latin American,4.9
+19,Chloe Khan,European Cuisine,4.8
+20,Ryan Khan,European Cuisine,4.7
+21,Sophia Smith,American Comfort,4.4
+22,Sophia Garcia,American Comfort,4.3
+23,Ryan Davis,Plant-Based,4.8
+24,Nina Chen,Plant-Based,4.9
+25,Ryan Chen,Baking & Desserts,4.3
+26,Sophia Nguyen,Baking & Desserts,4.2
+27,Chloe Kim,Health-Conscious,4.9
+28,Michael Liu,Health-Conscious,4.8
+29,Laura Brown,Seafood & Farm-to-Table,4.2
+30,Laura Nguyen,Seafood & Farm-to-Table,4.6
+31,Amelia Brown,Fine Dining,4.8
+32,Grace Johnson,Fine Dining,4.7

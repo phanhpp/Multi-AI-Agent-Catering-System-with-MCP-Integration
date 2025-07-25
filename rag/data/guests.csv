@@ -1,0 +1,35 @@
+guestId,name,companyId,companyName,email,phoneNumber,allergies,dietaryRestrictions,createdAt,updatedAt
+1,Alice Smith,1,Acme Corp,alice.smith@acme.com,0412-345-678,nuts,vegan,2025-05-12T09:15:00+10:00,2025-05-15T14:20:00+10:00
+2,Brian Johnson,2,Global Dynamics,brian.johnson@gdynamics.com,0423-456-789,,gluten-free,2025-05-20T11:05:00+10:00,2025-05-20T11:05:00+10:00
+3,Charlotte Lee,3,Omega Industries,charlotte.lee@omegaind.com,0434-567-890,fish,vegetarian,2025-05-01T08:30:00+10:00,2025-05-28T16:10:00+10:00
+4, Carter,2,Global Dynamics,taylor.carter@gdynamics.com,0401-234-678,,,2025-05-04T08:55:00+10:00,2025-06-05T09:30:00+10:00
+21,Uma Diaz,3,Omega Industries,uma.diaz@omegaind.com,0412-345-890,,,2025-05-14T10:15:00+10:00,2025-05-14T10:15:00+10:00
+22,Victor Edwards,4,TechFusion,victor.edwards@techfusion.com,0423-456-901,,none,2025-05-13T11:35:00+10:00,2025-05-31T13:45:00+10:00
+23,Willow Foster,5,Family,willow.foster@innovatex.com,0434-567-012,,,2025-05-06T14:10:00+10:00,2025-05-23T16:20:00+10:00
+24,Xavier Graham,6,Friends,xavier.graham@bluesky.com,0445-678-123,,,2025-05-16T09:40:00+10:00,2025-05-16T09:40:00+10:00
+25,Yvonne Hall,1,Acme Corp,yvonne.hall@acme.com,0456-789-234,,,2025-05-24T10:05:00+10:00,2025-05-24T10:05:00+10:00
+26,Zachary Ingram,2,Global Dynamics,zachary.ingram@gdynamics.com,0467-890-345,,,2025-05-17T12:30:00+10:00,2025-05-17T12:30:00+10:00
+27,Amanda Jackson,3,Omega Industries,amanda.jackson@omegaind.com,0478-901-456,,,2025-05-19T13:55:00+10:00,2025-06-01T11:10:00+10:00
+28,Brandon Kelly,4,TechFusion,brandon.kelly@techfusion.com,0489-012-567,,none,2025-05-29T15:20:00+10:00,2025-06-02T09:45:00+10:00
+29,Cassandra Lopez,5,Family,cassandra.lopez@innovatex.com,0490-123-678,,,2025-05-11T11:00:00+10:00,2025-05-30T14:50:00+10:00
+30,Daniel Morgan,6,Friends,daniel.morgan@bluesky.com,0401-234-789,,,2025-05-02T09:20:00+10:00,2025-05-02T09:20:00+10:00
+31,Emily Norris,1,Acme Corp,emily.norris@acme.com,0412-345-901,,,2025-05-08T08:45:00+10:00,2025-05-25T12:35:00+10:00
+32,Frederick Owens,2,Global Dynamics,frederick.owens@gdynamics.com,0423-456-012,fish,,2025-05-03T10:10:00+10:00,2025-06-04T16:00:00+10:00
+33,Gabriella Perez,3,Omega Industries,gabriella.perez@omegaind.com,0434-567-123,,,2025-05-26T14:05:00+10:00,2025-05-26T14:05:00+10:00
+34,Henry Quinn,4,TechFusion,henry.quinn@techfusion.com,0445-678-234,gluten,none,2025-05-18T09:30:00+10:00,2025-05-29T15:00:00+10:00
+35,Isla Reed,5,Family,isla.reed@innovatex.com,0456-789-345,,,2025-05-07T11:15:00+10:00,2025-05-31T10:55:00+10:00
+36,Jacob Stewart,6,Friends,jacob.stewart@bluesky.com,0467-890-456,,,2025-05-12T13:40:00+10:00,2025-06-03T14:25:00+10:00
+37,Kylie Thomas,1,Acme Corp,kylie.thomas@acme.com,0478-901-567,,,2025-05-20T09:05:00+10:00,2025-05-20T09:05:00+10:00
+38,Luke Upton,2,Global Dynamics,luke.upton@gdynamics.com,0489-012-678,,,2025-05-14T10:50:00+10:00,2025-06-05T08:45:00+10:00
+39,Megan Vaughn,3,Omega Industries,megan.vaughn@omegaind.com,0490-123-789,,,2025-05-06T12:00:00+10:00,2025-05-27T13:15:00+10:00
+40,Nathan Wright,4,TechFusion,nathan.wright@techfusion.com,0401-234-890,,none,2025-05-09T11:25:00+10:00,2025-05-09T11:25:00+10:00
+41,Olive Xu,5,Family,olive.xu@innovatex.com,0412-345-012,nuts,,2025-05-22T10:35:00+10:00,2025-06-01T16:10:00+10:00
+42,Peter Young,6,Friends,peter.young@bluesky.com,0423-456-123,,none,2025-05-05T09:10:00+10:00,2025-05-29T12:45:00+10:00
+43,Quincy Zimmerman,1,Acme Corp,quincy.zimmerman@acme.com,0434-567-234,,,2025-05-03T08:20:00+10:00,2025-05-30T09:55:00+10:00
+44,Rachel Allen,2,Global Dynamics,rachel.allen@gdynamics.com,0445-678-345,,none,2025-05-25T11:45:00+10:00,2025-05-25T11:45:00+10:00
+45,Steven Brooks,3,Omega Industries,steven.brooks@omegaind.com,0456-789-456,,,2025-05-16T10:15:00+10:00,2025-05-16T10:15:00+10:00
+46,Tina Collins,4,TechFusion,tina.collins@techfusion.com,0467-890-567,,,2025-05-26T09:55:00+10:00,2025-06-02T14:00:00+10:00
+47,Victor Davis,5,Family,victor.davis@innovatex.com,0478-901-678,,,2025-05-08T12:30:00+10:00,2025-05-29T15:20:00+10:00
+48,Wendy Evans,6,Friends,wendy.evans@bluesky.com,0489-012-789,,none,2025-05-13T11:05:00+10:00,2025-05-28T10:40:00+10:00
+49,Xavier Foster,1,Acme Corp,xavier.foster@acme.com,0490-123-890,,,2025-05-18T10:20:00+10:00,2025-05-18T10:20:00+10:00
+50,Yara Gomez,2,Global Dynamics,yara.gomez@gdynamics.com,0401-234-901,,,2025-05-07T09:40:00+10:00,2025-06-04T11:30:00+10:00

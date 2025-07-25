@@ -1,0 +1,24 @@
+id,name,short_description,specialization,ingredients,time_to_cook,servings,utensils,allergens,protein_type,is_vegan,is_vegetarian,is_gluten_free,is_dairy_free
+1,Miso Ramen,Savory noodle soup with miso-based broth,Japanese,"ramen noodles, miso paste, pork belly, egg, spring onion",45,2,"pot, ladle","soy, egg",pork,FALSE,FALSE,TRUE,TRUE
+2,Sushi Platter,Assorted sushi rolls and nigiri,Japanese,"sushi rice, nori, salmon, tuna, wasabi",60,4,"sushi mat, knife",fish,fish,FALSE,FALSE,TRUE,TRUE
+3,Kung Pao Chicken,Spicy stir-fried chicken with peanuts,Chinese,"chicken, peanuts, chilies, soy sauce, garlic",30,3,"wok, spatula","peanuts, soy",poultry,FALSE,FALSE,TRUE,TRUE
+4,Dim Sum Sampler,Steamed dumplings with assorted fillings,Chinese,"flour, pork, shrimp, cabbage, soy sauce",50,4,steamer,"gluten, shellfish",pork,FALSE,FALSE,FALSE,TRUE
+5,Bibimbap,Mixed rice bowl with vegetables and beef,Korean,"rice, beef, carrot, spinach, egg, gochujang",40,2,"pan, bowl","egg, soy",beef,FALSE,FALSE,TRUE,TRUE
+6,Kimchi Jjigae,Spicy kimchi stew with pork,Korean,"kimchi, pork, tofu, onion, garlic",35,3,pot,soy,pork,FALSE,FALSE,TRUE,TRUE
+7,Pho Bo,Beef noodle soup with aromatic broth,Vietnamese,"rice noodles, beef bones, onion, star anise, fish sauce",90,4,"pot, strainer",fish,beef,FALSE,FALSE,TRUE,TRUE
+8,Banh Mi,Vietnamese sandwich with pickled veg and pork,Vietnamese,"baguette, pork, pickled carrot, coriander, mayonnaise",25,2,"knife, pan","gluten, egg",pork,FALSE,FALSE,FALSE,TRUE
+9,Pad Thai,Stir-fried rice noodles with tamarind sauce,Thai,"rice noodles, egg, tofu, bean sprouts, peanuts",30,2,"wok, spatula","peanuts, egg",vegetables,FALSE,TRUE,TRUE,TRUE
+10,Green Curry,Spicy coconut-based curry with chicken,Thai,"chicken, green curry paste, coconut milk, eggplant, basil",40,3,"pot, ladle",fish,poultry,FALSE,FALSE,TRUE,TRUE
+11,Korean Tacos,Fusion of Korean BBQ and Mexican taco,Asian Fusion,"tortilla, bulgogi, kimchi, cheese, lettuce",35,2,"pan, knife","gluten, dairy",beef,FALSE,FALSE,FALSE,FALSE
+12,Sushi Burrito,Large roll with sushi fillings wrapped in nori,Asian Fusion,"nori, rice, salmon, avocado, cucumber",20,1,sushi mat,fish,fish,FALSE,FALSE,TRUE,TRUE
+13,Butter Chicken,Creamy tomato curry with chicken,Indian,"chicken, tomato, cream, garam masala, onion",45,3,"pot, spoon",dairy,poultry,FALSE,FALSE,TRUE,FALSE
+14,Palak Paneer,Spinach curry with paneer cheese,Indian,"spinach, paneer, onion, garlic, cream",40,2,"pan, blender",dairy,vegetables,FALSE,TRUE,TRUE,FALSE
+15,Falafel Wrap,Chickpea fritters in pita bread,Middle Eastern,"chickpeas, pita, lettuce, tahini, tomato",30,2,"fryer, knife","gluten, sesame",vegetables,TRUE,TRUE,FALSE,TRUE
+16,Shish Kebab,Grilled skewered meat with spices,Middle Eastern,"lamb, onion, pepper, garlic, cumin",25,2,"grill, skewers",,beef,FALSE,FALSE,TRUE,TRUE
+17,Tacos Al Pastor,Tacos with marinated pork and pineapple,Latin American,"pork, pineapple, tortilla, onion, cilantro",30,3,"pan, knife",gluten,pork,FALSE,FALSE,FALSE,TRUE
+18,Ceviche,Fresh fish cured in citrus juice,Latin American,"fish, lime, onion, cilantro, chili",25,2,"bowl, knife",fish,fish,FALSE,FALSE,TRUE,TRUE
+19,Spaghetti Carbonara,Creamy pasta with bacon and egg,European Cuisine,"spaghetti, egg, parmesan, bacon, pepper",25,2,"pot, pan","gluten, egg, dairy",pork,FALSE,FALSE,FALSE,FALSE
+20,Ratatouille,Vegetable stew from Provence,European Cuisine,"zucchini, eggplant, tomato, onion, garlic",45,3,"pot, knife",,vegetables,TRUE,TRUE,TRUE,TRUE
+21,Mac & Cheese,Cheesy baked pasta,American Comfort,"macaroni, cheddar, milk, flour, butter",35,2,"pot, oven","gluten, dairy",vegetables,FALSE,TRUE,FALSE,FALSE
+22,Fried Chicken,Crispy southern-style chicken,American Comfort,"chicken, flour, buttermilk, spices",45,3,"fryer, bowl",gluten,poultry,FALSE,FALSE,FALSE,TRUE
+23,Quinoa Salad,Healthy salad with quinoa and veggies,Plant-Based,"quinoa, vegetables, olive oil, lemon juice",30,2,"bowl, knife",,vegetables,TRUE,TRUE,TRUE,TRUE
