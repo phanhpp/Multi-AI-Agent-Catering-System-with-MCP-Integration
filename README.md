@@ -59,7 +59,7 @@ source .venv/bin/activate      # Unix/macOS
 .venv\Scripts\activate         # Windows
 
 # Install dependencies
-uv pip install --all          # Installs all dependencies from pyproject.toml
+uv sync        # Installs all dependencies from uv.lock
 ```
 
 ### Configuration

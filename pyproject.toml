@@ -13,4 +13,5 @@ dependencies = [
     "llama-index-tools-mcp>=0.2.6",
     "llama-index>=0.12.50",
     "tavily-python>=0.7.10",
+    "ipykernel>=6.15.2",
 ]
