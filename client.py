@@ -76,7 +76,6 @@ async def search_web(query: str) -> str:
 
 # Main workflow class
 class CateringMultiAgentFlow(Workflow):
-    retry_step1 = 0
     llm = llm
 
     @step
@@ -294,6 +293,7 @@ async def define_agents():
     )
 
     return diet_analyze_agent, find_existing_recipes_agent, chef_matching_agent, research_agent, filesystem_agent
+
 async def main():
     # Get agent
     diet_analyze_agent, find_existing_recipes_agent, chef_matching_agent, research_agent, filesystem_agent = await define_agents()
