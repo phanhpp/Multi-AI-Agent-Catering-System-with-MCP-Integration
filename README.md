@@ -136,13 +136,3 @@ The system generates a structured recommendation in `catering_result.txt`:
   - Matching Recipes
 ```
 
-## Development
-
-### Updating Dependencies
-```bash
-# Update dependencies to latest compatible versions
-uv pip compile pyproject.toml
-
-# Install in development mode
-uv pip install --all --editable .
-```

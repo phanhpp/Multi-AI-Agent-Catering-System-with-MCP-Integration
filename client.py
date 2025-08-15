@@ -192,7 +192,7 @@ async def setup_tools():
             args= [
                 "-y",
                 "@modelcontextprotocol/server-filesystem",
-                "/Users/dangphuonganh/Documents/mcp/cleanver/catering_service" #allowed directory
+                os.getcwd() #allowed directory
             ])
     
     # Create tool specs

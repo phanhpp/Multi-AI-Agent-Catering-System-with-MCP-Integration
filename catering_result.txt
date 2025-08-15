@@ -1,67 +1,47 @@
-### Recipe Ideas
+### Recipe Details
 
-I have found several dairy-free, gluten-free, and nut-free vegetarian recipes that match your requirements. Here are some recipe ideas:
+**Recipe Name:** Vegetarian Tortilla Soup
+**Short Description:** A delicious vegetarian tortilla soup made with black beans instead of chicken.
 
-1. **Kale, Black Bean & Avocado Burrito Bowl**
-   - **Ingredients:**
-     - Lime-marinated kale
-     - Seasoned black beans
-     - Brown rice
-     - Avocado salsa verde
-   - **Source:** [Cookie and Kate - Kale, Black Bean & Avocado Burrito Bowl](https://cookieandkate.com/kale-black-bean-and-avocado-burrito-bowl/)
+**Ingredients:**
+- Black beans
+- Vegetable broth
+- Tomatoes
+- Onion
+- Garlic
+- Bell pepper
+- Corn
+- Chili powder
+- Cumin
+- Salt
+- Pepper
+- Lime
+- Avocado
+- Cilantro
+- Tortilla strips
 
-2. **Lemony Lentil and Chickpea Salad with Radish and Herbs**
-   - **Ingredients:**
-     - Steamed lentils
-     - Canned chickpeas
-     - Lemon
-     - Fresh mint and dill
-   - **Source:** [Cookie and Kate - Lemony Lentil and Chickpea Salad with Radish and Herbs](https://cookieandkate.com/lemony-lentil-and-chickpea-salad-with-radish-and-herbs/)
+**Source:** [Cookie and Kate - 20 Gluten-Free Dinner Recipes](https://cookieandkate.com/20-gluten-free-vegetarian-dinner-recipes/)
 
-3. **Roasted Butternut Squash Tacos**
-   - **Ingredients:**
-     - Butternut squash
-     - Crisp slaw
-     - Black beans
-     - Guacamole
-   - **Source:** [Cookie and Kate - Roasted Butternut Squash Tacos](https://cookieandkate.com/roasted-butternut-squash-tacos-recipe/)
-
-4. **Vegetable Fried Rice**
-   - **Ingredients:**
-     - Extra veggies
-     - Brown rice
-   - **Source:** [Cookie and Kate - Vegetable Fried Rice](https://cookieandkate.com/vegetable-fried-rice-recipe/)
-
-5. **Best Quinoa Salad**
-   - **Ingredients:**
-     - Quinoa
-     - Chickpeas
-     - Red bell pepper
-     - Cucumber
-     - Parsley
-     - Lemon
-   - **Source:** [Cookie and Kate - Best Quinoa Salad](https://cookieandkate.com/best-quinoa-salad-recipe/)
-
-These recipes are dairy-free, gluten-free, nut-free, and vegetarian, meeting your dietary restrictions and allergens. Enjoy cooking these delicious and healthy meals!
+**Dietary Information:** This recipe is both vegetarian and gluten-free, and it does not contain nuts or chicken.
 
 ---
 
-### Chefs Specializing in Relevant Cuisines
+### Chefs Specializing in Plant-Based Cuisine
 
-I have found chefs specializing in the following categories that match the recipes:
-
-**Plant-Based Specialization:**
+#### Plant-Based Specialization:
 1. **Nina Chen**
    - Rating: 4.9
 
 2. **Ryan Davis**
    - Rating: 4.8
 
-**Health-Conscious Specialization:**
-1. **Chloe Kim**
-   - Rating: 4.9
+#### Baking & Desserts Specialization:
+1. **Ryan Chen**
+   - Rating: 4.3
 
-2. **Michael Liu**
-   - Rating: 4.8
+2. **Sophia Nguyen**
+   - Rating: 4.2
 
-These chefs specialize in plant-based and health-conscious cuisines, which align well with the dairy-free, gluten-free, nut-free, and vegetarian recipes you provided. You can consider reaching out to them for further collaboration on these recipes.
+---
+
+**Note:** Based on the recipe for Vegetarian Tortilla Soup, the most suitable specialization match would be **Plant-Based**.
